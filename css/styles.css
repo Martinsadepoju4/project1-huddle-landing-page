@@ -104,7 +104,9 @@ footer{
 .flow {
   width: 37%;
   margin-top: 40px;
-  color: var(--Grayish-Blue);
+}
+.flow p{
+color: var(--Grayish-Blue);
 }
 
 .flow-image {
